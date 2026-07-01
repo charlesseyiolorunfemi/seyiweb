@@ -1,0 +1,32 @@
+<style>
+    p{
+        margin-bottom: 0px;
+        font-family: Arial;
+        margin-top: 0px;
+    }
+    .free,
+    .onehour{
+        display: inline-block;
+    }
+.free{
+    font-weight: bold;
+}
+.onehour{
+    color: grey;
+    font-size: 15px;
+}
+.developer{
+    margin-top: 5px;
+    width: 500px;
+}
+.here{
+    margin-top: 18px;
+}
+.span{
+    color: blue;
+    cursor: pointer;
+}
+.span:hover{
+    text-decoration: underline;
+}
+</style>

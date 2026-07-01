@@ -1,0 +1,16 @@
+  .talking{
+            width: 250px;
+            font-family: Arial;
+            font-weight: bold;
+            font-size: 13px;
+            line-height: 20px;
+        }
+          .small{
+            color: gray;
+            font-family: Arial;
+            font-size: 12px;
+        }
+        body{
+            margin: 0px;
+            padding-left: 80px;
+        }
